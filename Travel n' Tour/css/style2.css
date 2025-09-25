@@ -1,0 +1,230 @@
+*{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+#p1{
+  font-family: "Verdana", sans-serif;
+ margin-top: 0.8em;
+ font-size: 45px;
+ text-align: center;
+}
+
+.explore{
+  color: #C1581D;
+  font-weight: bold;
+}
+
+.pakistan{
+  color:#000000 ;
+  font-weight: bold;
+}
+
+.pakbanner{
+width: 1900;
+height: 1200;
+margin-top: 1.0em;
+position: auto;
+}
+
+
+#p2{
+  font-family: "Arial", san-serif;
+  font-size: 20px;
+  color:#000000 ;
+  text-align: center;
+  margin-top: -35em;
+  padding: 20px;
+}
+
+/* Hunza */
+.image1{
+  margin-left: 5em;
+  margin-top: 5em;
+  padding: 10px;
+  float: left;
+  vertical-align: left;
+}
+
+#header1{
+  font-family: "Arial", san-serif;
+   font-size: 40px;
+   color: #000000;
+   margin-top: 2.7em;
+   text-align: centre;
+   margin-right: 2.2em;
+   padding: 13px;
+
+}
+
+#p3{
+   font-family: "Arial", san-serif;
+   font-size: 20px;
+   color:#000000 ;
+   text-align: left;
+   padding: 15px;
+}
+
+
+/* Faisal Mosque*/
+.image2{
+  padding: 10px;
+  float: right;
+  vertical-align: right;
+  margin-left: 5em;
+  margin-top: 5em;
+  margin-right: 1em;
+}
+
+#header2{
+    font-family: "Arial", san-serif;
+   font-size: 40px;
+   color: #000000;
+   margin-top: 5.3em;
+   text-align: left;
+   margin-left: 2.3em;
+   padding: 13px;
+
+}
+
+#p4{
+  font-family: "Arial", san-serif;
+   font-size: 20px;
+   color:#000000 ;
+   text-align: left;
+   padding: 20px;
+   margin-left: 4.3em;
+}
+
+
+/* Park */
+.image3{
+  margin-left: 5em;
+  margin-top: 5em;
+  padding: 10px;
+  float: left;
+  vertical-align: left;
+} 
+
+#header3{
+   font-family: "Arial", san-serif;
+   font-size: 38px;
+   color: #000000;
+   margin-top: 5em;
+   text-align: right;
+   margin-right: 2.2em;
+   padding: 13px;
+   margin left: -10em;
+}
+
+#p5{
+  font-family: "Arial", san-serif;
+   font-size: 20px;
+   color:#000000 ;
+   text-align: left;
+   padding: 15px;
+}
+
+
+/* Transport */
+#header4{
+  font-family: "Arial", san-serif;
+   font-size: 40px;
+   color:#000000 ;
+   text-align: left;
+   padding: 20px;
+   margin-left: 2.0em;
+   margin-top: 2em;
+ }
+
+#p6{
+  font-family: "Arial", san-serif;
+   font-size: 20px;
+   color:#000000 ;
+   text-align: left;
+   padding: 20px;
+   margin-left: 4.3em;
+   margin-top: -2em;
+
+}
+/*table*/
+#header7{
+  font-family: "Arial", san-serif;
+   font-size: 40px;
+   color:#000000 ;
+   text-align: left;
+   padding: 20px;
+   margin-left: 2.0em;
+   margin-top: -0em;
+}
+
+#information{
+ padding-top: 12px;
+ margin-top: 0;
+ margin-bottom: 0;
+ margin-left: auto;
+ margin-right: auto;
+}
+
+tr:hover {background-color: #C1581D;}
+
+  table, th, td {
+            border: 0.5px solid #C1581D;
+         
+        }
+        th, td {
+            padding: 8px;
+          width:80% 
+        }
+
+
+/* Weather*/
+#header5{
+  font-family: "Arial", san-serif;
+   font-size: 40px;
+   color:#000000 ;
+   text-align: left;
+   padding: 20px;
+   margin-left: 2.0em;
+   margin-top: 0.6em;
+}
+
+#p7{
+   font-family: "Arial", sans-serif;
+   font-size: 20px;
+   color:#000000 ;
+   text-align: left;
+   padding: 20px;
+   margin-left: 4.3em;
+}
+
+/*Languages*/
+#header6{
+
+font-family: "Arial", san-serif;
+   font-size: 40px;
+   color:#000000 ;
+   text-align: left;
+   padding: 20px;
+   margin-left: 2.0em;
+   margin-top: 0.6em;
+   }
+
+#p8{
+  font-family: "Arial", sans-serif;
+   font-size: 20px;
+   color:#000000 ;
+   text-align: left;
+   padding: 20px;
+   margin-left: 4.3em;
+
+}
+
+.author{
+  font-family: "Arial", san-serif;
+   font-size: 11px;
+   color: #000000;
+   text-align: right;
+
+}
